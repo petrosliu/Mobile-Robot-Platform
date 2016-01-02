@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "motor", "motor\motor.vcxproj", "{59B0B6B3-5894-4385-94FB-C8959E3D3BE0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B0B6B3-5894-4385-94FB-C8959E3D3BE0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{59B0B6B3-5894-4385-94FB-C8959E3D3BE0}.Debug|Win32.Build.0 = Debug|Win32
+		{59B0B6B3-5894-4385-94FB-C8959E3D3BE0}.Release|Win32.ActiveCfg = Release|Win32
+		{59B0B6B3-5894-4385-94FB-C8959E3D3BE0}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
